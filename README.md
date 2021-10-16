@@ -18,10 +18,14 @@
 ###  animate_do: ^2.0.0
 ###  bloc: ^7.1.0
 ###  flutter_bloc: ^7.2.0
+
+## App Design Here
+
+### https://bit.ly/3ANGVXa
   
 ## The project demo video here:
 
 ### https://bit.ly/3mZ6KPl
 
-### Thank you
+### Thank you :)
 
